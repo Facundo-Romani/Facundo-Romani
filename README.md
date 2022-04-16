@@ -6,7 +6,13 @@ TECNOLOGÍAS 💻
 📚 .Net Framework   
 🎹 C#   
 🥐 C++  
-📋 SQL
+📋 SQLserver
+
+PERFIL PERSONAL DE LINKEDIN 💼 
+
+🍵 https://www.linkedin.com/in/facundo-romani/
+
+
 
 
 
