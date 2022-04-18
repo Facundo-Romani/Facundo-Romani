@@ -6,7 +6,7 @@ TECNOLOGÍAS 💻
 📚 .Net Framework   
 🎹 C#   
 🥐 C++  
-📋 SQLserver
+📋 SQL
 
 PERFIL PERSONAL DE LINKEDIN 💼 
 
