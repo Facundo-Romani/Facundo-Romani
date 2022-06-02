@@ -6,7 +6,6 @@ TECNOLOGÍAS 💻
 📚 .Net Framework   
 🎹 C#
 📱 Xamarin
-🥐 C++  
 📋 SQL
 
 PERFIL PERSONAL DE LINKEDIN 💼 
