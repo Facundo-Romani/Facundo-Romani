@@ -3,6 +3,7 @@ Mi nombre es Facundo Romani, Soy de Argentina y un gran apasionado del mundo It 
 
 TECNOLOGÍAS 💻 
 
+🤖 javaScript
 📚 .Net Framework   
 🎹 C#
 📱 Xamarin
