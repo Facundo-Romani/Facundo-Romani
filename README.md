@@ -6,7 +6,8 @@ TECNOLOGÍAS 💻
 🤖 javaScript
 📚 .Net Framework   
 🎹 C#
-📱 Xamarin
+💢Angular
+📱 Xamarin Forms
 📋 SQL
 
 PERFIL PERSONAL DE LINKEDIN 💼 
