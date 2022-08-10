@@ -3,11 +3,11 @@ Mi nombre es Facundo Romani, Soy de Argentina y un gran apasionado del mundo It 
 
 TECNOLOGÍAS 💻 
 
-🤖 HTML - CSS - javaScript 
 📚 .Net Framework   
 🎹 C#
 📱 Xamarin Forms
 📋 SQL
+🤖 HTML - CSS - javaScript 
 
 PERFIL PERSONAL DE LINKEDIN 💼 
 
