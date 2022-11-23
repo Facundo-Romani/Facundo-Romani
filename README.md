@@ -4,7 +4,7 @@ Mi nombre es Facundo Romani, Soy de Argentina y un gran apasionado del mundo It 
 TECNOLOGÍAS 💻 
 
 📚 .Net Framework - ASP.NET Core 🎹C# 📋SQL
-🤖HTML - CSS - javaScript - typeScript - Angular
+
 
 PERFIL PERSONAL DE LINKEDIN 💼 
 
