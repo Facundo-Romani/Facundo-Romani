@@ -7,8 +7,7 @@
 
 
 
-My name is Facundo Romani, I am from Argentina and very passionate about the It world, I enjoy being challenged and participating in projects that require me to work outside of my knowledge and comfort set. I consider myself a self-taught, curious person and I really want to keep learning always.
-I am currently learning more about C# and its .NET ecosystem but I don't rule out learning other technologies in the future.
+Mi nombre es Facundo Romani, soy estudiante de la UTN, me encuentro cursando primer año de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Nicolás. Tengo como objetivo capacitarme en el mundo laboral IT. Me considero una persona autodidacta, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
 
 
 
