@@ -1,10 +1,6 @@
 ### 
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-romani/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1060043409546543174)
-[![Reddit](https://img.shields.io/badge/Reddit-FE7A16?logo=Color=white&style=for-the-badge)](https://www.reddit.com/user/Such-Ask-7115)
-
-
 
 
 Mi nombre es Facundo Romani, soy estudiante de la UTN, me encuentro cursando primer año de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Nicolás. Tengo como objetivo capacitarme en el mundo laboral IT. Me considero una persona autodidacta, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
