@@ -4,7 +4,7 @@
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/17020898/facundo-romani)
 
 
-Mi nombre es Facundo Romani, soy estudiante de la UTN, me encuentro cursando primer año de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Nicolás. Tengo como objetivo capacitarme en el mundo laboral IT. Me considero una persona autodidacta, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
+Mi nombre es Facundo Romani, soy estudiante de la UTN, me encuentro cursando primer año de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Nicolás. Tengo como objetivo capacitarme en el mundo laboral IT. Me considero una persona metódica, responsable, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
 
 
 
