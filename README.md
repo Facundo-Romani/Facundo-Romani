@@ -5,10 +5,6 @@
 <a  href="https://mastodon.social/@AlucardXd"> <img src="https://cdn.worldvectorlogo.com/logos/mastodon-wordmark-white-4.svg" alt="c" width="100" height="30 href"/> </a> 
 
 
-
-
-
-
 Mi nombre es Facundo Romani, soy estudiante de la UTN, me encuentro cursando primer año de la Tecnicatura Universitaria en Programación en la Facultad Regional de San Nicolás. Tengo como objetivo capacitarme en el mundo laboral IT. Me considero una persona metódica, responsable, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
 
 
